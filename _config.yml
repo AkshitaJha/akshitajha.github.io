@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Akshita Jha"
-  avatar           : "profile.png"
+  avatar           : "profile_.png"
   pronouns         : "she/her"
   bio              : "Ph.D. student at Virginia Tech"
-  location         : "Washington DC-Baltimore Area"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F_ogj6EAAAAJ&hl=en&oi=ao"
