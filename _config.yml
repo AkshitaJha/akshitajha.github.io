@@ -80,8 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Akshita Jha (she/her)"
+  name             : "Akshita Jha"
   avatar           : "profile.png"
+  pronouns         : "she/her"
   bio              : "Ph.D. student at Virginia Tech"
   location         : "Washington DC-Baltimore Area"
   employer         :
