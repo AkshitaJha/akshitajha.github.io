@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year Computer Science Ph.D. student at Virginia Tech advised by [Dr. Chandan Reddy](https://people.cs.vt.edu/reddy/). My interests fall broadly under the umbrella of trustworthy and responsible AI. My research focuses on fairness, interpretability, and robustness of deep learning models particularly in the domain of natural language processing (NLP). I work on identifying vulnerabilities of large language models (LLMs) and building systems that are fair, interpetable, and robust to adversarial perturbations in the input.
+I'm a 3rd year Computer Science Ph.D. student at Virginia Tech advised by [Dr. Chandan Reddy](https://people.cs.vt.edu/reddy/). My research interests fall broadly under the umbrella of trustworthy and responsible AI with a focus on fairness, interpretability, and robustness of deep learning models -- particularly in the domain of natural language processing (NLP). I work on identifying vulnerabilities of large language models (LLMs) and building systems that are fair, interpetable, and robust to adversarial perturbations in the input.
 
 Prior to starting my Ph.D., I was a research intern at University of Michigan, Ann Arbor where I worked with [Dr. David Jurgens](https://jurgens.people.si.umich.edu/) and [Dr. Libby Hemphill](https://www.libbyh.com/) on identifying offensive commments and de-escalting conflicts on social media platforms. I also worked briefly as a software engineer at [Intuit, India](https://www.intuit.com/in/). Before that, I completed my MS by research in Computational Lingiustics and Bachelors in Computer Science from [IIIT, Hyderabad, India](https://www.iiit.ac.in/). 
 
