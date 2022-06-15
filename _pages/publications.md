@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **[CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models](https://arxiv.org/pdf/2206.00052.pdf)**, 2022 <br/>
-**Akshita Jha**, Chandan K. Reddy
+**Akshita Jha** and Chandan K. Reddy
 
 - **[Supervised Contrastive Learning for Interpretable Long-Form Document Matching](https://arxiv.org/pdf/2108.09190.pdf)** [[code]](https://github.com/InterDigitalInc/CoLDE) <br/>
 **ACM Transactions on KDD**, 2022 <br/>
@@ -17,7 +17,7 @@ author_profile: true
 
 - **[When does a Compliment become Sexist? Analysis and Classification of Ambivalent Sexism using Twitter Data](https://aclanthology.org/W17-2902.pdf)** <span style="color:maroon">[Spotlight Presentation]</span> [[code]](https://github.com/AkshitaJha/NLP_CSS_2017) <br/>
 Second Workshop on NLP and CSS, **ACL 2017** <br/>
-**Akshita Jha**, Radhika Mamidi
+**Akshita Jha** and Radhika Mamidi
 
 You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=F_ogj6EAAAAJ&hl=en&oi=ao) 
 
