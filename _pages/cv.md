@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<embed src="../files/AkshitaJha_CV.pdf", type="application/pdf"></embed>
+<embed src="../files/AkshitaJha_CV.pdf", type="application/pdf"/>
