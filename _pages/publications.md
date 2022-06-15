@@ -9,7 +9,7 @@ author_profile: true
 **Akshita Jha** and Chandan K. Reddy
 
 - **[Supervised Contrastive Learning for Interpretable Long-Form Document Matching](https://arxiv.org/pdf/2108.09190.pdf)** [[code]](https://github.com/InterDigitalInc/CoLDE) <br/>
-**ACM Transactions on KDD, 2022 ** <br/>
+**ACM Transactions on KDD, 2022** <br/>
 **Akshita Jha**, Vineeth Rakesh, Jaideep Chandrashekar, Adithya Samavedhi, Chandan K. Reddy
 
 - **[Fair Representation Learning using Interpolation Enabled Disentanglement](https://arxiv.org/pdf/2108.00295.pdf)**, 2021 <br/>
