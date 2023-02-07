@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **[CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models](https://arxiv.org/pdf/2206.00052.pdf)**, 2022 <br/>
+- **[Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis]()** [[code]](https://github.com/AkshitaJha/SimpleModelsforLongDocumentMatching) <br/>
+**The 17th Conference of the European Chapter of the Association for Computational Linguistics, EACL 2023 (Findings)**
+**Akshita Jha**, Adithya Samavedhi, Vineeth Rakesh, Jaideep Chandrashekar, Chandan K. Reddy
+
+- **[CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models](https://arxiv.org/pdf/2206.00052.pdf)** [[code]](https://github.com/reddy-lab-code-research/CodeAttack) <br/>
+**Proceedings of the AAAI Conference on Artificial Intelligence, 2023**
 **Akshita Jha** and Chandan K. Reddy
 
 - **[Supervised Contrastive Learning for Interpretable Long-Form Document Matching](https://arxiv.org/pdf/2108.09190.pdf)** [[code]](https://github.com/InterDigitalInc/CoLDE) <br/>
