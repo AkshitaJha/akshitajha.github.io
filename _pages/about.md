@@ -16,5 +16,5 @@ Prior to starting my Ph.D., I was a research intern at the University of Michiga
 ***
 <span>**What's new?**</span>
 - January 2023: Our paper [Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis]() was accepted to EACL (Findings) 2023.
-- November 2022: Our paper [CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models](https://arxiv.org/pdf/2206.00052.pdf) was accepted to AAAI-23.
+- November 2022: Our paper [CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models](https://arxiv.org/pdf/2206.00052.pdf) was accepted to AAAI 2023.
 - August 2022: Started a research internship with the Responsible AI org at Google Research in sunny California!
