@@ -10,7 +10,7 @@ author_profile: true
 **Akshita Jha** and Chandan K. Reddy
 
 - **[Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis]()** [[code]](https://github.com/AkshitaJha/SimpleModelsforLongDocumentMatching) <br/>
-**The 17th Conference of the European Chapter of the Association for Computational Linguistics, 2023 (Findings)** <br/>
+**The 17th Conference of the EACL (Findings), 2023** <br/>
 **Akshita Jha**, Adithya Samavedhi, Vineeth Rakesh, Jaideep Chandrashekar, Chandan K. Reddy
 
 - **[Supervised Contrastive Learning for Interpretable Long-Form Document Matching](https://arxiv.org/pdf/2108.09190.pdf)** [[code]](https://github.com/InterDigitalInc/CoLDE) <br/>
