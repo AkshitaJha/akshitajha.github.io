@@ -9,7 +9,7 @@ author_profile: true
 **Proceedings of the AAAI Conference on Artificial Intelligence, 2023** <br/>
 **Akshita Jha** and Chandan K. Reddy
 
-- **[Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis]()** [[code]](https://github.com/AkshitaJha/SimpleModelsforLongDocumentMatching) <br/>
+- **[Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis](https://arxiv.org/abs/2302.03765)** [[code]](https://github.com/AkshitaJha/SimpleModelsforLongDocumentMatching) <br/>
 **The 17th Conference of the EACL (Findings), 2023** <br/>
 **Akshita Jha**, Adithya Samavedhi, Vineeth Rakesh, Jaideep Chandrashekar, Chandan K. Reddy
 
