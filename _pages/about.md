@@ -13,13 +13,13 @@ I'm a final year Computer Science Ph.D. candidate at Virginia Tech advised by [D
 Prior to starting my Ph.D., I was a research intern at the University of Michigan, Ann Arbor where I worked with [Dr. David Jurgens](https://jurgens.people.si.umich.edu/) and [Dr. Libby Hemphill](https://www.libbyh.com/) on identifying offensive comments and de-escalating conflicts on social media platforms. I also worked briefly as a software engineer at [Intuit, India](https://www.intuit.com/in/). Before that, I completed my MS by research in Computational Lingiustics and Bachelors in Computer Science from [IIIT, Hyderabad, India](https://www.iiit.ac.in/). 
 
 <div style="border: 1px dotted blue; padding: 10px; text-align: center;">
-  <strong>I am currently on the job market in 2024 </strong> and actively seeking opportunities in industrial research. Please feel free to reach out if you think we might be a good fit.
+  <strong>I am currently on the job market in 2024 and actively seeking opportunities in industrial research. </strong> Please feel free to reach out if you think we might be a good fit.
 </div>
 
 ***
 <span>**What's new?**</span>
 - Feb 2024: I am on the job market this year and actively looking for industrial research positions.
-- Jan 2024: Successfully passed my prelims exam. I am now ABD (All But Dissertation)! 
+- Jan 2024: Passed my prelims exam successfully. I am now ABD (All But Dissertation)! 
 - May 2023: Started a research internship with the Responsible AI org at Google Research in sunny California!
 - May 2023: Our paper [SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models](https://arxiv.org/pdf/2305.11840.pdf) was accepted at ACL 2023.
 - January 2023: Our paper [Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis](https://arxiv.org/abs/2302.03765) was accepted at EACL (Findings) 2023.
