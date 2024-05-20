@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **[ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation](https://arxiv.org/abs/2401.06310)** <br/>
+- **[ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation](https://arxiv.org/abs/2401.06310)** [[dataset]](https://github.com/google-research-datasets/visage) <br/>
+**The 62nd Annual Meeting of the ACL, 2024** <br/>
 **Akshita Jha**, Vinodkumar Prabhakaran, Remi Denton, Sarah Laszlo, Shachi Dave, Chandan K. Reddy, and Sunipa Dev
   
- - **[SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models](https://arxiv.org/pdf/2305.11840.pdf)** [[dataset]](https://github.com/google-research-datasets/seegull) <br/>
+ - **[SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models](https://aclanthology.org/2023.acl-long.548/)** [[dataset]](https://github.com/google-research-datasets/seegull) <br/>
 **The 61st Annual Meeting of the ACL, 2023** <br/>
 **Akshita Jha**, Aida Davani, Chandan K Reddy, Shachi Dave, Vinodkumar Prabhakaran,  and Sunipa Dev
 
