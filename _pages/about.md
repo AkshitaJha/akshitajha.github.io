@@ -15,8 +15,8 @@ Prior to starting my Ph.D., I was a research intern at the University of Michiga
 
 ***
 <span>**What's new?**</span>
+- May 2024: Our paper [ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation](https://arxiv.org/abs/2401.06310) was accepted at ACL 2024!
 - Feb 2024: I am on the industry job market and actively looking for research positions. Please reach out if you think we'd be a good fit.
 - Jan 2024: Passed my prelims exam successfully. I am now ABD (All But Dissertation)! 
 - May 2023: Started a research internship with the Responsible AI org at Google Research in sunny California!
 - May 2023: Our paper [SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models](https://arxiv.org/pdf/2305.11840.pdf) was accepted at ACL 2023.
-- January 2023: Our paper [Transformer-based Models for Long-Form Document Matching: Challenges and Empirical Analysis](https://arxiv.org/abs/2302.03765) was accepted at EACL (Findings) 2023.
