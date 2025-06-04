@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Teaching Assistant: Natural Language Processing, Dr. Xuan Wang
+- Term: Fall 2024
+  
 - Teaching Assistant: Ethics in Computer Science, Dr. Erika Olimpiew <br/>
   Term: Fall 2023
 
