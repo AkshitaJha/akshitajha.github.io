@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Computer Science Ph.D. candidate at Virginia Tech advised by [Dr. Chandan Reddy](https://people.cs.vt.edu/reddy/). My research interests fall broadly under the umbrella of trustworthy and responsible AI with a focus on fairness, interpretability, and robustness of generative models -- particularly in the domain of natural language processing (NLP). I focus on building systems that are fair and robust across text, code, and visual modalities. I have also interned at [Google Research](https://research.google/teams/responsible-ai/) where I worked with [Vinodkumar Prabhakaran](https://cs.stanford.edu/~vinod/) and [Sunipa Dev](https://sunipa.github.io/) on identifying vulnerabilities in large language models (LLMs) across text and visual modalities, at scale.
+I'm a Research Scientist at Apple, broadly working on the safety of generative models. My research centers on fairness, interpretability, and robustness in generative models, with a particular focus on natural language processing (NLP). 
 
-Prior to starting my Ph.D., I was a research intern at the University of Michigan, Ann Arbor where I worked with [Dr. David Jurgens](https://jurgens.people.si.umich.edu/) and [Dr. Libby Hemphill](https://www.libbyh.com/) on identifying offensive comments and de-escalating conflicts on social media platforms. I also worked briefly as a software engineer at [Intuit, India](https://www.intuit.com/in/). Before that, I completed my MS by research in Computational Linguistics and Bachelors in Computer Science from [IIIT, Hyderabad, India](https://www.iiit.ac.in/). 
+I completed my Ph.D. in Computer Science from Virginia Tech, where I was advised by [Dr. Chandan Reddy](https://people.cs.vt.edu/reddy/). During my doctoral studies, I also worked at [Google Research](https://research.google/teams/responsible-ai/) with [Vinodkumar Prabhakaran](https://cs.stanford.edu/~vinod/) and [Sunipa Dev](https://sunipa.github.io/), studying vulnerabilities in generative models at scale across text and visual modalities. 
+Earlier, I interned at the University of Michigan, Ann Arbor, collaborating with [Dr. David Jurgens](https://jurgens.people.si.umich.edu/) and [Dr. Libby Hemphill](https://www.libbyh.com/) on identifying offensive comments and de-escalating conflicts on social media platforms. I earned my Bachelor's degree in Computer Science from [IIIT, Hyderabad, India](https://www.iiit.ac.in/). 
 
 
 ***
 <span>**What's new?**</span>
+
+- Apr 2025: My Ph.D. thesis, [Adversarial Risks and Stereotype Mitigation at Scale in Generative Models](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/28448382-01d3-49e7-a6cb-234274cf2fff/content), is now available online.
+- Jan 2025: I defended my Ph.D. thesis and started working as a Research Scientist @ Apple.
 - May 2024: Our paper [ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation](https://arxiv.org/abs/2401.06310) was accepted at ACL 2024!
-- Feb 2024: I am on the industry job market and actively looking for research positions. Please reach out if you think we'd be a good fit.
-- Jan 2024: Passed my prelims exam successfully. I am now ABD (All But Dissertation)! 
-- May 2023: Started a research internship with the Responsible AI org at Google Research in sunny California!
-- May 2023: Our paper [SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models](https://arxiv.org/pdf/2305.11840.pdf) was accepted at ACL 2023.
