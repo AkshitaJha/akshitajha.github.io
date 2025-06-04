@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Akshita Jha"
 title_separator          : "-"
-name                     : &name "Akshita Jha"
-description              : &description "Ph.D. Candidate at Virginia Tech"
+name                     : &name "Akshita Jha, Ph.D."
+description              : &description "Research Scienstist"
 url                      : https://akshitajha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akshitajha/akshitajha.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Akshita Jha (she/her)"
   avatar           : "profile_3.jpg"
-  bio              : "Ph.D. Candidate at Virginia Tech"
+  bio              : "Research Scienstist"
   location         : 
   employer         :
   pubmed           : 
