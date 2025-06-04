@@ -17,6 +17,6 @@ Earlier, I interned at the University of Michigan, Ann Arbor, collaborating with
 ***
 <span>**What's new?**</span>
 
-- Apr 2025: My Ph.D. thesis, [Adversarial Risks and Stereotype Mitigation at Scale in Generative Models](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/28448382-01d3-49e7-a6cb-234274cf2fff/content), is now available online.
+- Apr 2025: My Ph.D. thesis, [Adversarial Risks and Stereotype Mitigation at Scale in Generative Models](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/28448382-01d3-49e7-a6cb-234274cf2fff/content), is now online.
 - Jan 2025: I defended my Ph.D. thesis and started working as a Research Scientist @ Apple.
 - May 2024: Our paper [ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation](https://arxiv.org/abs/2401.06310) was accepted at ACL 2024!
